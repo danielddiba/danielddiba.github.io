@@ -3,17 +3,20 @@ main:
   - title: "Publications"
     url: /publications/
     
-  - title: "Research"
+  - title: "Projects"
+    url: /projects/
+
+  - title: "Talks"
     url: /research/
 
-  - title: "Teaching"
-    url: /teaching/
+  - title: "Bookshelf"
+    url: /bookshelf/
 
-  - title: "Software"
-    url: /software/
-
-  - title: "Posts"
+  - title: "Blog"
     url: /posts/
     
   - title: "CV"
     url: /cv/
+
+  - title: "Contact"
+    url: /contact/

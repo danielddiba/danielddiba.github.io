@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
+<sup>*</sup> The publications are listed in reverse chronological order. The links below each publication direct to the publisher's webpage or to a download of a free pdf.
+
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
@@ -15,4 +17,3 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-<sup>*</sup> Equal authorship statement
