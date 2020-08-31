@@ -1,7 +1,7 @@
 ---
 title: 'The Kenya Sanitation Conference showed we know what to do – now it’s time to do it'
-date: 2020-08-30
-permalink: /posts/2020/08/kenya-sanitation-conference/
+date: 2019-11-19
+permalink: /posts/2019/11/kenya-sanitation-conference/
 excerpt_separator: <!--more-->
 toc: true
 tags:
