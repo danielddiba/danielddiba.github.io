@@ -3,6 +3,4 @@ permalink: /contact/
 title: "Contact me"
 ---
 
-Coming soon! 
-
-You will soon be able to send me an email using this page.
+You can contact me using the "Email" icon on the left menu if you are using a desktop browser, or in the Contact menu above if you are using a mobile browser.
