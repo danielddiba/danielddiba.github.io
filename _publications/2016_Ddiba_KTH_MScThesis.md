@@ -1,12 +1,12 @@
 ---
-title: "Governing the circular economy: Assessing the capacity to implement resource-oriented sanitation and waste management systems in low-and middle-income countries"
-collection: publications
-permalink: /publication/forthcoming-peace-agreement-strength
-date: 2020-07-05
-venue: 'Earth System Governance'
-paperurl: '/files/publications/2020_Ddiba_et_al_GoverningTheCircularEconomy.pdf'
-link: 'https://doi.org/10.1016/j.esg.2020.100063'
+title: "Estimating the potential for resource recovery from productive sanitation in urban areas"
+#collection: publications
+#permalink: /publication/forthcoming-peace-agreement-strength
+date: 2016-08-15
+#venue: 'KTH Royal Institute of Technology'
+paperurl: '/files/publications/2016_Ddiba_KTH_MScThesis.pdf'
+link: 'http://urn.kb.se/resolve?urn=urn%3Anbn%3Ase%3Akth%3Adiva-190740'
 #code: 'link to ISA dataverse goes here'
 #github: 'link to github repo goes here'
-citation: 'Ddiba, D., Andersson, K., Koop, S.H.A., Ekener, E., Finnveden, G. and Dickin, S. 2020. &quot;Governing the circular economy: Assessing the capacity to implement resource-oriented sanitation and waste management systems in low- and middle-income countries.&quot; <i>Earth System Governance</i> 100063. doi:10.1016/j.esg.2020.100063'
+citation: 'Ddiba, D. 2016. &quot;Estimating the potential for resource recovery from productive sanitation in urban areas.&quot; KTH Royal institute of Technology, TRITA-LWR Degree Project 2016:13, 86 pp.'
 ---

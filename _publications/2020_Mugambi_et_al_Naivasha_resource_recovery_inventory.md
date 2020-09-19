@@ -1,12 +1,13 @@
 ---
-title: "Governing the circular economy: Assessing the capacity to implement resource-oriented sanitation and waste management systems in low-and middle-income countries"
-collection: publications
-permalink: /publication/forthcoming-peace-agreement-strength
-date: 2020-07-05
-venue: 'Earth System Governance'
-paperurl: '/files/publications/2020_Ddiba_et_al_GoverningTheCircularEconomy.pdf'
-link: 'https://doi.org/10.1016/j.esg.2020.100063'
+title: "Setting the stage for the circular economy: Waste resource recovery opportunities in Naivasha, Kenya"
+#collection: publications
+#permalink: /publication/forthcoming-peace-agreement-strength
+date: 2020-09-09
+#venue: 'Stockholm Environment Institute'
+paperurl: '/files/publications/2020_Mugambi_et_al_Naivasha_resource_recovery_inventory.pdf'
+link: 'https://www.sei.org/publications/setting-stage-circular-naivasha/'
 #code: 'link to ISA dataverse goes here'
 #github: 'link to github repo goes here'
-citation: 'Ddiba, D., Andersson, K., Koop, S.H.A., Ekener, E., Finnveden, G. and Dickin, S. 2020. &quot;Governing the circular economy: Assessing the capacity to implement resource-oriented sanitation and waste management systems in low- and middle-income countries.&quot; <i>Earth System Governance</i> 100063. doi:10.1016/j.esg.2020.100063'
+citation: 'Mugambi, J. K., Windberg, C., Ddiba, D., Ogol, T., Andersson, K., Gicheru, T. and Akinyi, E. 2020. &quot;Setting the stage for the circular economy: Waste resource recovery opportunities in Naivasha, Kenya.&quot; 
+Stockholm Environment Institute, Stockholm'
 ---

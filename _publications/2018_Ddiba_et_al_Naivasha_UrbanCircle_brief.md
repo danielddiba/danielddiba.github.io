@@ -1,12 +1,12 @@
 ---
-title: "Governing the circular economy: Assessing the capacity to implement resource-oriented sanitation and waste management systems in low-and middle-income countries"
-collection: publications
-permalink: /publication/forthcoming-peace-agreement-strength
-date: 2020-07-05
-venue: 'Earth System Governance'
-paperurl: '/files/publications/2020_Ddiba_et_al_GoverningTheCircularEconomy.pdf'
-link: 'https://doi.org/10.1016/j.esg.2020.100063'
+title: "UrbanCircle: turning urban waste into circular economy benefits"
+#collection: publications
+#permalink: /publication/forthcoming-peace-agreement-strength
+date: 2018-05-28
+#venue: 'Stockholm Environment Institute'
+paperurl: '/files/publications/2018_Ddiba_et_al_Naivasha_UrbanCircle_brief.pdf'
+link: 'https://www.sei.org/publications/urbancircle-naivasha-brief/'
 #code: 'link to ISA dataverse goes here'
 #github: 'link to github repo goes here'
-citation: 'Ddiba, D., Andersson, K., Koop, S.H.A., Ekener, E., Finnveden, G. and Dickin, S. 2020. &quot;Governing the circular economy: Assessing the capacity to implement resource-oriented sanitation and waste management systems in low- and middle-income countries.&quot; <i>Earth System Governance</i> 100063. doi:10.1016/j.esg.2020.100063'
+citation: 'Ddiba, D., Andersson, K. & Ogol, T. 2018. &quot;UrbanCircle: turning urban waste into circular economy benefits.&quot; Stockholm Environment Institute (SEI) Project Brief. Stockholm, Sweden.'
 ---

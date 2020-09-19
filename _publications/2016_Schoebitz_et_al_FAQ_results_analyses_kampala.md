@@ -1,12 +1,12 @@
 ---
-title: "Governing the circular economy: Assessing the capacity to implement resource-oriented sanitation and waste management systems in low-and middle-income countries"
-collection: publications
-permalink: /publication/forthcoming-peace-agreement-strength
-date: 2020-07-05
-venue: 'Earth System Governance'
-paperurl: '/files/publications/2020_Ddiba_et_al_GoverningTheCircularEconomy.pdf'
-link: 'https://doi.org/10.1016/j.esg.2020.100063'
+title: "Results of faecal sludge analyses in Kampala, Uganda: Pictures, characteristics and qualitative observations for 76 samples"
+#collection: publications
+#permalink: /publication/forthcoming-peace-agreement-strength
+date: 2016-04-30
+#venue: 'Eawag-Sandec'
+paperurl: '/files/publications/2016_Schoebitz_et_al_FAQ_results_analyses_kampala.pdf'
+link: 'https://www.eawag.ch/fileadmin/Domain1/Abteilungen/sandec/publikationen/EWM/Laboratory_Methods/results_analyses_kampala.pdf'
 #code: 'link to ISA dataverse goes here'
 #github: 'link to github repo goes here'
-citation: 'Ddiba, D., Andersson, K., Koop, S.H.A., Ekener, E., Finnveden, G. and Dickin, S. 2020. &quot;Governing the circular economy: Assessing the capacity to implement resource-oriented sanitation and waste management systems in low- and middle-income countries.&quot; <i>Earth System Governance</i> 100063. doi:10.1016/j.esg.2020.100063'
+citation: 'Schoebitz, L., Bischoff, F., Ddiba, D., Okello, F., Nakazibwe, R., Niwagaba, C.B., Lohri, C.R. & Strande, L. 2016. &quot;Results of faecal sludge analyses in Kampala, Uganda: Pictures, characteristics and qualitative observations for 76 samples.&quot; Eawag: Swiss Federal Institute of Aquatic Science and Technology. Dübendorf, Switzerland.' 
 ---
