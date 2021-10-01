@@ -6,9 +6,10 @@ author_profile: true
 redirect_from:
   - /resume
 ---
+You can view my bio and CV in the window below, or download a PDF copy [here](/files/CV/CV_DanielDdiba_September2021.pdf).
 
 {% include base_path %}
 
-<iframe src="/files/CV/CV_DanielDdiba_January2019.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
+<iframe src="/files/CV/CV_DanielDdiba_September2021.pdf" width="100%" height="1200" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
 
-You can download a PDF copy of my CV [here](/files/CV/CV_DanielDdiba_January2019.pdf).
+
