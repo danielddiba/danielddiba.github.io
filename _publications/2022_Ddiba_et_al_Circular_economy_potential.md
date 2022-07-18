@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2022_Ddiba_et_al_Circular_economy_potential
 date: 2022-01-07
 venue: 'Environment, Development and Sustainability'
-paperurl: '/files/publications/2021_Ddiba_et_al_Circular_economy_potential.pdf'
+paperurl: '/files/publications/2022_Ddiba_et_al_Circular_economy_potential.pdf'
 link: 'https://doi.org/10.1007/s10668-021-01487-w'
 #code: 'link to ISA dataverse goes here'
 #github: 'link to github repo goes here'
