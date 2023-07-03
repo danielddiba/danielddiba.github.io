@@ -23,4 +23,4 @@ We also point out some aspects that existing tools do not address adequately suc
 
 This paper is one attempt to create awareness about existing tools, their functions and how they address resource recovery. Hopefully, it can contribute to further integrating the available tools into infrastructure planning and programming processes so that they can create value for planners, engineers, resource recovery practitioners, and other stakeholders in planning regimes and procedures.
 
-If you are interested in learning more about our paper, you can access it for free here:[https://doi.org/10.1016/j.jenvman.2023.118365](https://doi.org/10.1016/j.jenvman.2023.118365 "A review of how decision support tools address resource recovery in sanitation systems")
+If you are interested in learning more about our paper, you can access it for free here: [https://doi.org/10.1016/j.jenvman.2023.118365](https://doi.org/10.1016/j.jenvman.2023.118365 "A review of how decision support tools address resource recovery in sanitation systems")
