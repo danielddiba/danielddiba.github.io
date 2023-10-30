@@ -24,12 +24,17 @@ After my talk, I joined a panel discussion with Anna Lindstedt, Ambassador for t
 I really enjoyed the event and learned a lot from the other speakers and panellists about their work on global policy processes on the blue economy and ocean health, about the ongoing negotiations for a plastics treaty at the UN and about the impacts of plastic waste on marine biodiversity. It was also great to meet Japheth Muli from Hand in Hand Eastern Africa again, who shared his experience from the Waves of Change project, which aims to empower coastal communities in Kenya and India to tackle plastic pollution and poverty. I had earlier interacted with Japheth in Mombasa, Kenya where my colleague George Njoroge and I conducted a training workshop on waste management for his team at Hand in Hand Eastern Africa back in April 2022 so it was really nice to meet again. The event ended with a mingle session, where I had the chance to network with other participants and exchange ideas on how to address these global challenges of plastic pollution and poverty eradication. 
 
 ![My ImageA](/images/20231009A.jpg)
+
 ![My ImageB](/images/20231009B.jpg)
+
 ![My ImageC](/images/20231009C.jpg)
+
 ![My ImageD](/images/20231009D.jpg)
 Photos: Lisa Possne
 
 **More about the studies we did in Kenya and India within the Waves of Change project:**
-*[Plastic waste management and recycling in Mombasa, Kenya: A scoping study of the value chain and its institutional, policy and regulatory frameworks](http://doi.org/10.51414/sei2022.013)
-*[Analysis of the Plastic Waste Value Chain in India: A Scoping Study](http://doi.org/10.51414/sei2022.037)
+
+* [Plastic waste management and recycling in Mombasa, Kenya: A scoping study of the value chain and its institutional, policy and regulatory frameworks](http://doi.org/10.51414/sei2022.013)
+
+* [Analysis of the Plastic Waste Value Chain in India: A Scoping Study](http://doi.org/10.51414/sei2022.037)
 
