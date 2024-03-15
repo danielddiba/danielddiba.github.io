@@ -17,4 +17,6 @@ I recently wrote a blog post that has now been published on the website of the [
 
 <!--more-->
 
+Link to the article: [Turning wastewater into a resource: a key to food security and climate action](https://www.siani.se/blog/turning-wastewater-into-a-resource-a-key-to-food-security-and-climate-action/)
+
 The article was inspired by work that I did together with many other colleagues from around the world throughout 2022 and 2023 to contribute to a UNEP report that was launched at World Water Week 2023 - ["Wastewater - Turning Problem to Solution"](https://www.unep.org/resources/report/wastewater-turning-problem-solution).
