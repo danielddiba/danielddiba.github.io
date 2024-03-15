@@ -1,7 +1,7 @@
 ---
 title: 'New article at SIANI on turning wastewater into a resource and how this contributes to food security and climate action'
 date: 2024-03-15
-permalink: /posts/2024/03/siani-article-wastewater-reuse
+permalink: /posts/2024/03/siani-article-wastewater-reuse/
 excerpt_separator: <!--more-->
 toc: true
 tags:
