@@ -43,7 +43,7 @@ The rest of the week was spent in meetings with my colleagues at the SEI Africa 
 
 ![My ImageJ](/images/J.jpg)
 
-![My ImageK](/images/K.jpg)
+![My ImageK](/images/K.JPG)
 
 
 Photos: All by Pauline Gitiri Macharia/SEI except the last one which is by Daniel Ddiba/SEI
