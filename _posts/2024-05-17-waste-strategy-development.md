@@ -45,6 +45,7 @@ The rest of the week was spent in meetings with my colleagues at the SEI Africa 
 
 ![My ImageK](/images/K.jpg)
 
+
 Photos: All by Pauline Gitiri Macharia/SEI except the last one which is by Daniel Ddiba/SEI
 
 **More about the previous work we have done with Hand in Hand:**

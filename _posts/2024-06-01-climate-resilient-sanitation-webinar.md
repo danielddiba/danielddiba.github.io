@@ -26,4 +26,4 @@ The session ended with a Q&A segment, where panelists addressed questions from t
 
 More info about the webinar, the slides from the presentation and the recording will be available [here](https://iwa-network.org/learn/evidence-and-action-from-the-climate-resilient-sanitation-coalition/).
 
-![webinar poster](images/IWA_webinar.png)
+![webinar poster](/images/IWA_webinar.png)
