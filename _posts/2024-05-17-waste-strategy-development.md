@@ -31,19 +31,20 @@ The rest of the week was spent in meetings with my colleagues at the SEI Africa 
  
  Some photos from the workshop are shown below.
 
-![My ImageE](/images/E.jpg)
+![My ImageE](/images/E.webp)
 
-![My ImageF](/images/F.jpg)
+![My ImageF](/images/F.webp)
 
-![My ImageG](/images/G.jpg)
+![My ImageG](/images/G.webp)
 
-![My ImageH](/images/H.jpg)
+![My ImageH](/images/H.webp)
 
-![My ImageI](/images/I.jpg)
+![My ImageI](/images/I.webp)
 
 ![My ImageJ](/images/J.jpg)
 
 ![My ImageK](/images/K.jpg)
+
 Photos: All by Pauline Gitiri Macharia/SEI except the last one which is by Daniel Ddiba/SEI
 
 **More about the previous work we have done with Hand in Hand:**
